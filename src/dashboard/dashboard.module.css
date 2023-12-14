@@ -1,0 +1,8 @@
+header {
+    border-bottom: 3px solid wheat;
+}
+
+.title {
+    font-size: 3rem;
+    margin: 1rem auto 0 auto;
+}
